@@ -16,6 +16,7 @@ This is a simple web project.  Deployment can be on any web server of even local
 
 ## How to contribute
 
+Please fork this repository and then issues pull requests for review.
 
 ### Copyright
 2019 Michael S Mattinson
